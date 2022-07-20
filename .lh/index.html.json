@@ -1,0 +1,18 @@
+{
+    "sourceFile": "index.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1658320783355,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1658320783355,
+            "name": "Commit-0",
+            "content": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Mochila de viagem</title>\r\n    <link rel=\"stylesheet\" href=\"css/style.css\">\r\n\r\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\r\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\r\n    <link href=\"https://fonts.googleapis.com/css2?family=Roboto&display=swap\" rel=\"stylesheet\"> \r\n</head>\r\n<body>\r\n    <main class=\"conteudo\">\r\n        <div class=\"principal\">\r\n            <div class=\"mochila\"></div>\r\n            <form action=\"\" class=\"adicionar\" id=\"novoItem\">\r\n                <label for=\"nome\">Nome</label>\r\n                <input type=\"text\" name=\"nome\" id=\"nome\">\r\n                <label for=\"quantidade\">Quantidade</label>\r\n                <input type=\"number\" name=\"quantidade\" id=\"quantidade\">\r\n                <input type=\"submit\" value=\"Adicionar\" class=\"cadastrar\" id=\"cadastrar\">\r\n            </form>\r\n        </div>\r\n        \r\n        <ul class=\"lista\" id=\"lista\"></ul>\r\n    </main>\r\n    alterando\r\n\r\n    <script src=\"js/main.js\"></script>\r\n</body>\r\n</html>"
+        }
+    ]
+}
