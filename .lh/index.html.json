@@ -3,11 +3,15 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 1,
             "patches": [
                 {
                     "date": 1658320783355,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1658321188691,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -25,9 +25,8 @@\n         </div>\r\n         \r\n         <ul class=\"lista\" id=\"lista\"></ul>\r\n     </main>\r\n-    alterando\r\n \r\n     <script src=\"js/main.js\"></script>\r\n </body>\r\n </html>\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1658320783355,
